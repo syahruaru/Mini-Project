@@ -7,15 +7,18 @@ Pilihan user kemudian dikumpulkan pada file csv untuk dianalisis dan diambil kes
 
 ## Tahapan Pengolahan Data
 1. Import library & data
+   
    ![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%201%20import%20library%20&%20data.png?raw=true)
    
 2. Eksplorasi data
+   
    ![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%202%20eksplorasi%20data.png?raw=true)
 
    ### Explanation
    berdasarkan hasil eksplorasi terhadap 2 hasil survey tanpa ads dan dengan ads dapat dilihat banyaknya jumlah data yang diperoleh. Dalam hal in survey berhasil mendapatkan data yang lebih banyak yaitu 229         baris yang mengindikasikan ada 229 user yang berpartisipasi dalam survey, sementara itu survey tanpa ads hanya bisa mengumpulkan 56 data user.
    
 3. Concate 2 table
+   
    ![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%203%20concat%202%20table.png?raw=true)
    
 4. Cleaning data
@@ -27,6 +30,7 @@ Pilihan user kemudian dikumpulkan pada file csv untuk dianalisis dan diambil kes
    Membersihkan data dari user yang menjawab D bersamaan dengan jawaban lain, user yang memberikan jawaban seperti ini akan dianggap tidak valid dan datanya akan dibuang.
 
 5. Create new clean table
+   
    ![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%205_1%20create%20new%20clean%20table.png?raw=true)
    ![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%205_2%20create%20new%20clean%20table.png?raw=true)
    ![Alt text](https://github.com/syahruaru/Mini-Project/blob/main/img/part%205_3%20create%20new%20clean%20table.png?raw=true)
