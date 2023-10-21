@@ -2,8 +2,8 @@
 
 ## Latar Belakang
 Project data wrangling rekap data kuisioner survey terkait minat program materi belajar dari user.
-Kuisioner diberikan kepada user untuk memilih materi belajar yang disukai beserta informasi terkait metode belajar dan harga program.
-Pilihan user kemudian dikumpulkan pada file csv untuk dianalisis dan diambil kesimpulan untuk program prioritas.
+Kuisioner dalam bentuk google form diberikan kepada user untuk memilih materi belajar yang disukai beserta informasi terkait metode belajar dan harga program.
+Pilihan user kemudian diolah menjadi file csv untuk dianalisis dan diambil kesimpulan untuk program prioritas.
 
 ## Tahapan Pengolahan Data
 1. Import library & data
